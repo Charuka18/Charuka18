@@ -4,7 +4,7 @@
 **DuminduCharuka/DuminduCharuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on [Silicon Radon Networks](https://siliconradonnetworks.com)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -44,36 +44,16 @@ Here are some ideas to get you started:
             <li>✍️ &nbsp; Pursuing Graphic Design and 3D model as hobbies/side hustles.</li>
         </ul>
     </div>
-    # D.P.D. Charuka Pathirana
 
-## Undergraduate - Intern Software Developer
-
-📍 Colombo, Sri Lanka  
-📞 +94 76 05 30 071  
+📍 Colombo, Sri Lanka
 ✉️ [duminduabcd@gmail.com](mailto:duminduabcd@gmail.com)  
-🌐 [LinkedIn: Dumindu Charuka](https://linkedin.com/in/dumindu-charuka-749760215)  
-💻 [GitHub: Charuka18](https://github.com/Charuka18)
+🌐 [LinkedIn: Dumindu Charuka](https://linkedin.com/in/dumindu-charuka-749760215)
 
 ---
 
 ## Profile
 
 I am an experienced developer with a strong background in JavaScript-related technologies for front-end development. Additionally, I have hands-on experience with backend technologies such as Laravel-PHP, NodeJS, and Java. My ability to understand key requirements and deliver creative solutions sets me apart. Currently, I am in my 4th year at the Faculty of Computing, SLIIT.
-
----
-
-## Work Experience
-
-### Backend Developer – Intern
-#### Silicon Radon Networks (Pvt) Ltd | Remote  
-**Duration**: October 2024 – Present  
-**Technologies**: JavaScript, HTML, CSS, ReactJS, Laravel, MySQL, Git, GitHub  
-- Completed a 6-month internship in full-stack development.
-- Contributed to three client projects, assisting with documentation, wireframes, and use cases.
-- Worked in an Agile team using Slack and ClickUp to ensure on-time delivery of features.
-- Gained experience in code management and seamless integration.
-
-Website: [Silicon Radon Networks](https://siliconradonnetworks.com)
 
 ---
 
@@ -90,25 +70,6 @@ Website: [Silicon Radon Networks](https://siliconradonnetworks.com)
 ### GCE A/L Examination  
 **Stream**: Science (Mathematics)  
 **Year**: 2019
-
----
-
-## Projects
-
-### Code Generator  
-**Duration**: January 2024 – May 2024  
-**Technologies**: React.js, Node.js, Express.js, MongoDB, PHP  
-- Developed a web application for code generation.
-
-### Gym Workout Plan  
-**Duration**: January 2024 – May 2024  
-**Technologies**: Spring Boot  
-- Created a web application to help users plan their gym workouts.
-
-### Student LMS  
-**Duration**: January 2023 – May 2023  
-**Technologies**: React.js, Node.js, Express.js, MongoDB  
-- Built a Learning Management System (LMS) for IT students.
 
 ---
 
