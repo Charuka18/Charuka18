@@ -18,7 +18,7 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Dumindu+%F0%9F%91%8B;Computer+Science+Student;Front-End+Engineer;Back-End+Engineer" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Charuka+%F0%9F%91%8B;Computer+Science+Student;Front-End+Engineer;Back-End+Engineer" alt="Headline" />
     </div>
     <p align="left">
         <a href="https://www.linkedin.com/in/dumindu-charuka-749760215"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
             </strong>
         </p>
         <ul>
-            <li>🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.</li>
+            <li>🔭 <b>I’m currently working on</b>: [Silicon Radon Networks](https://siliconradonnetworks.com).</li>
         </ul>
         <h3> 👨🏻‍💻 &nbsp;About Me </h3>
         <ul>
@@ -46,8 +46,6 @@ Here are some ideas to get you started:
     </div>
 
 📍 Colombo, Sri Lanka
-✉️ [duminduabcd@gmail.com](mailto:duminduabcd@gmail.com)  
-🌐 [LinkedIn: Dumindu Charuka](https://linkedin.com/in/dumindu-charuka-749760215)
 
 ---
 
@@ -92,14 +90,6 @@ I am an experienced developer with a strong background in JavaScript-related tec
 
 ### IDEs
 - Visual Studio Code, Android Studio
-
----
-
-## Personal Skills
-- Strong understanding of Data Structures & Algorithms
-- Knowledge of Object-Oriented Programming (OOP) & Agile Methodologies
-- Proficient with development tools like VS Code and Postman
-- Excellent communication and teamwork skills
 
 ---
 
