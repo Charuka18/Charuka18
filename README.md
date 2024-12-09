@@ -1,10 +1,9 @@
-<!--### Hi there 👋
-
+<!--
+### Hi there 👋
 
 **DuminduCharuka/DuminduCharuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <div>
     <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
@@ -23,11 +21,11 @@ Here are some ideas to get you started:
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Dumindu+%F0%9F%91%8B;Computer+Science+Student;Front-End+Engineer;Back-End+Engineer" alt="Headline" />
     </div>
     <p align="left">
-<a href="https://www.linkedin.com/in/dumindu-charuka-749760215"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-<a href="duminduabcd@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
- <a href="https://www.facebook.com/dumindu.charuka.35"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=Facebook"></a>
-<a href="https://twitter.com/CharukaDumindu"><img src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter" alt="Twitter" /></a>
-</p>
+        <a href="https://www.linkedin.com/in/dumindu-charuka-749760215"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+        <a href="mailto:duminduabcd@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
+        <a href="https://www.facebook.com/dumindu.charuka.35"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=Facebook"></a>
+        <a href="https://twitter.com/CharukaDumindu"><img src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter" alt="Twitter" /></a>
+    </p>
     <div align=left>
         <br>
         <p>
@@ -37,12 +35,13 @@ Here are some ideas to get you started:
         </p>
         <ul>
             <li>🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.</li>
-            <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Information Technology Degree at University of Sri Lanka Institute of Information Technology.
-- 🌱 &nbsp; Learning more about Web Development, Mobile Development and UX/UI Design.
-- ✍️ &nbsp; Pursuing Graphic Design and 3D model as hobbies/side hustles.
+        </ul>
+        <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+        <ul>
+            <li>🤔 &nbsp; Exploring new technologies and developing software solutions.</li>
+            <li>🎓 &nbsp; Studying Information Technology Degree at University of Sri Lanka Institute of Information Technology.</li>
+            <li>🌱 &nbsp; Learning more about Web Development, Mobile Development and UX/UI Design.</li>
+            <li>✍️ &nbsp; Pursuing Graphic Design and 3D model as hobbies/side hustles.</li>
         </ul>
     </div>
     <div align=center>
@@ -67,4 +66,4 @@ Here are some ideas to get you started:
 
 Credit: [Dumindu Charuka](https://github.com/DuminduCharuka)
 
-Last edited on: 23/07/2022 
+Last edited on: 23/07/2022
