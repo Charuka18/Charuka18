@@ -44,22 +44,112 @@ Here are some ideas to get you started:
             <li>✍️ &nbsp; Pursuing Graphic Design and 3D model as hobbies/side hustles.</li>
         </ul>
     </div>
-    <div align=center>
-        <h1>Contribution Activity</h1>
-        <img src="https://github-readme-stats.vercel.app/api?username=DuminduCharuka&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
-        <br>
-        <!--
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DuminduCharuka&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
-        <br>
-        -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DuminduCharuka&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
-        <br>
-        <br>
-    </div>
-    <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-        <p>Loading</p>
-    </div>
+    # D.P.D. Charuka Pathirana
+
+## Undergraduate - Intern Software Developer
+
+📍 Colombo, Sri Lanka  
+📞 +94 76 05 30 071  
+✉️ [duminduabcd@gmail.com](mailto:duminduabcd@gmail.com)  
+🌐 [LinkedIn: Dumindu Charuka](https://linkedin.com/in/dumindu-charuka-749760215)  
+💻 [GitHub: Charuka18](https://github.com/Charuka18)
+
+---
+
+## Profile
+
+I am an experienced developer with a strong background in JavaScript-related technologies for front-end development. Additionally, I have hands-on experience with backend technologies such as Laravel-PHP, NodeJS, and Java. My ability to understand key requirements and deliver creative solutions sets me apart. Currently, I am in my 4th year at the Faculty of Computing, SLIIT.
+
+---
+
+## Work Experience
+
+### Backend Developer – Intern
+#### Silicon Radon Networks (Pvt) Ltd | Remote  
+**Duration**: October 2024 – Present  
+**Technologies**: JavaScript, HTML, CSS, ReactJS, Laravel, MySQL, Git, GitHub  
+- Completed a 6-month internship in full-stack development.
+- Contributed to three client projects, assisting with documentation, wireframes, and use cases.
+- Worked in an Agile team using Slack and ClickUp to ensure on-time delivery of features.
+- Gained experience in code management and seamless integration.
+
+Website: [Silicon Radon Networks](https://siliconradonnetworks.com)
+
+---
+
+## Education
+
+### BSc(Hons) in Information Technology  
+**University of Sri Lanka Institute of Information Technology (SLIIT)**  
+**Duration**: July 2021 – July 2025
+
+### Diploma in Cyber Security and Ethical Hacking  
+**University of Sciences and Information Technology City Campus (SITC Campus)**  
+**Completed**: 2023
+
+### GCE A/L Examination  
+**Stream**: Science (Mathematics)  
+**Year**: 2019
+
+---
+
+## Projects
+
+### Code Generator  
+**Duration**: January 2024 – May 2024  
+**Technologies**: React.js, Node.js, Express.js, MongoDB, PHP  
+- Developed a web application for code generation.
+
+### Gym Workout Plan  
+**Duration**: January 2024 – May 2024  
+**Technologies**: Spring Boot  
+- Created a web application to help users plan their gym workouts.
+
+### Student LMS  
+**Duration**: January 2023 – May 2023  
+**Technologies**: React.js, Node.js, Express.js, MongoDB  
+- Built a Learning Management System (LMS) for IT students.
+
+---
+
+## Expertise
+
+### Languages
+- PHP, JavaScript, HTML, CSS, Java, Kotlin, Spring Boot
+
+### Frameworks/Libraries
+- Laravel, React.js, Node.js
+
+### UI/UX Tools
+- Figma
+
+### Database
+- MySQL, MongoDB, Firebase
+
+### Version Control
+- Git, GitHub
+
+### IDEs
+- Visual Studio Code, Android Studio
+
+---
+
+## Personal Skills
+- Strong understanding of Data Structures & Algorithms
+- Knowledge of Object-Oriented Programming (OOP) & Agile Methodologies
+- Proficient with development tools like VS Code and Postman
+- Excellent communication and teamwork skills
+
+---
+
+## Contact
+
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/dumindu-charuka-749760215) or via email at [duminduabcd@gmail.com](mailto:duminduabcd@gmail.com).
+
+---
+
+**Last updated on:** December 2024
+
 </div>
 
 ------
